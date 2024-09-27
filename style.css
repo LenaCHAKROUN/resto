@@ -1,0 +1,79 @@
+.navbar-brand1 {
+  font-family: "Noto Nastaliq Urdu", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 40px;
+  color: rgb(119, 195, 112);
+  margin: 10px 10px;
+  padding: 10px 10px;
+}
+
+
+.nav-menu {
+  color: rgb(119, 195, 112) !important;
+   margin-left: 58rem;
+}
+
+
+
+.navbar-brand1:hover {
+  color: none !important;;
+}
+
+
+.container-nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.pol {
+  font-family: "Noto Nastaliq Urdu", serif !important;
+  font-optical-sizing: auto;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  color: rgb(119, 195, 112) !important;
+}
+
+  
+
+
+.bienv {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+  color: rgb(119, 195, 112) ;
+  margin-left: 10% 10%;
+}
+
+
+.h5 {
+  color: rgb(157, 15, 15);
+}
+
+.mn {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+  color: rgb(119, 195, 112) ;
+}
+
+.card-titile {
+  color: rgb(157, 15, 15);
+}
+
+.ctct {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+  color: rgb(119, 195, 112) ;
+}
+.img-card {
+  height: 200px;
+  width: 200px;
+}
+
+.final {
+  font-size: 9;
+}
